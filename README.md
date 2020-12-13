@@ -1,0 +1,1 @@
+An OpenSource Mall based on Java SSM
