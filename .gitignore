@@ -6,7 +6,7 @@
 *.ear
 
 # maven ignore
-targer/
+target/
 
 # idea
 .idea
